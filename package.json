@@ -1,0 +1,14 @@
+{
+  "name": "@aglucaci/sc2-omicron",
+  "main": "92dc2dd7356bd932@3792.js",
+  "version": "3792.0.0",
+  "homepage": "https://observablehq.com/@aglucaci/sc2-omicron",
+  "author": {
+    "name": "Alexander Lucaci",
+    "url": "https://observablehq.com/@aglucaci"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
